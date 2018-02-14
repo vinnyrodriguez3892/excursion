@@ -1,0 +1,25 @@
+.copyright{text-align: right;
+color: gray;
+font-size: 16px;}
+
+.header{
+font-family: Verdana;
+font-weight: normal;
+font-size: 50px;
+color: white;
+text-align: center;}
+
+.header2{font-family: Verdana;
+font-weight: 300;
+font-size: 42px;
+color: white;}
+
+.line{font-family: Verdana;
+font-size: 21px;
+color: gray;}
+
+.link {color: Aquamarine;
+font-size: 16px;}
+
+body { text-align: center;
+  background-color: black;}
